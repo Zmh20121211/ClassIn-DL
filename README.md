@@ -2,35 +2,20 @@
   <a href="README_zh.md">简体中文</a> | English
 </h4>
 
-> [!NOTE]
-> Due to work reasons, the development speed of this project may vary. 
-> The project is continuously being improved with new features and bug fixes.
-
 > [!TIP]
 > For the best compatibility, please use the latest version of the tool.
 
 <!-- PROJECT LOGO -->
 <div align="center">
 
-![Banner](resources/banner.webp)
-
-<a href="https://trendshift.io/repositories/13847" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13847" alt="ClassIn Video Downloader | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
 <h3>
     A powerful cross-platform ClassIn video downloader
 </h3>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Release][release-shield]][release-url]
-[![Downloads][downloads-shield]][release-url]
-[![QQ Group][qqgroup-shield]][qqgroup-url]
-
 <h4>
-  <a href="https://github.com/yourusername/ClassIn-Video-Downloader/issues/new?template=bug_report.yml">Report Bug</a>
+  <a href="https://github.com/Zmh20121211/ClassIn-DL/issues/new?template=bug_report.yml">Report Bug</a>
  ·    
-  <a href="https://github.com/yourusername/ClassIn-Video-Downloader/issues/new?template=feature_request.yml">Request Feature</a>
+  <a href="https://github.com/Zmh20121211/ClassIn-DL/issues/new?template=feature_request.yml">Request Feature</a>
 </h4>
 
 </div>
@@ -66,18 +51,9 @@
 - ✅ Adjustable concurrent download limit
 
 ### ❌ Planned Features
-- ❌ Enhanced video quality selection
-- ❌ Download history management
-- ❌ Playlist support for downloading entire courses
-- ❌ Improved parsing algorithm for more reliable link extraction
-- ❌ Auto-updater functionality
-- ❌ Dark mode support
-- ❌ Video metadata preservation
-- ❌ Download scheduling feature
-- ❌ Proxy support for restricted networks
-- ❌ More detailed download statistics
+- ❌ Self-service packet capture (long-term)
 
-Visit [GitHub Issues](https://github.com/yourusername/ClassIn-Video-Downloader/issues) to see all requested features (and known issues).
+Visit [GitHub Issues](https://github.com/Zmh20121211/ClassIn-DL/issues) to see all requested features (and known issues).
 
 <!-- TUTORIAL VIDEO -->
 ## Tutorial Video
@@ -95,12 +71,6 @@ Get the latest version of ClassIn Video Downloader for Windows:
 | Windows  | x86          | [Download][windows-x86-url] |
 | Windows  | arm64        | [Download][windows-arm64-url] |
 
-<!-- SPONSOR -->
-## Sponsor
-
-| <a href="https://signpath.org/"><img src="https://signpath.org/assets/favicon-50x50.png" alt="SignPath" width="50" height="50"></a> | Free code signing on Windows provided by <a href="https://signpath.io">SignPath.io</a>, certificate by <a href="https://signpath.org">SignPath Foundation</a> |
-|---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -116,12 +86,12 @@ If you have a suggestion, fork the repo and create a pull request. You can also 
 
 Thanks to all contributors who have participated in this project!
 
-<a href="https://github.com/yourusername/ClassIn-Video-Downloader/graphs/contributors"><img src="http://contrib.nn.ci/api?repo=yourusername/ClassIn-Video-Downloader" alt="Contributors" /></a>
+<a href="https://github.com/Zmh20121211/ClassIn-DL/graphs/contributors"><img src="http://contrib.nn.ci/api?repo=Zmh20121211/ClassIn-DL" alt="Contributors" /></a>
 
 <!-- SCREEN SHOTS -->
 ## Screenshots
 
-[![Demo Screenshot][product-screenshot]](https://github.com/yourusername/ClassIn-Video-Downloader)
+[![Demo Screenshot][product-screenshot]](https://github.com/Zmh20121211/ClassIn-DL)
 
 <!-- LICENSE -->
 ## License
@@ -136,16 +106,6 @@ Copyright © 2025 Your Name.
 * [E-mail](mailto:your.email@example.com) - your.email@example.com
 * [QQ Group](https://qm.qq.com/q/PlUBdzqZCm) - 123456789
 
-<!-- REFERENCES -->
-## References
-
-* <a href="https://github.com/zhiyiYo/PyQt-Fluent-Widgets">PyQt-Fluent-Widgets</a> - A fluent design widgets library based on C++ Qt/PyQt/PySide
-* <a href="https://github.com/lexiforest/curl_cffi">curl_cffi</a> - Python binding for curl-impersonate fork via cffi
-* <a href="https://github.com/Delgan/loguru">loguru</a> - A library which aims to bring enjoyable logging in Python
-* <a href="https://github.com/Nuitka/Nuitka">Nuitka</a> - The Python compiler
-* <a href="https://github.com/PySide/pyside-setup">PySide</a> - The official Python module for Qt
-* <a href="https://github.com/albertosottile/darkdetect">darkdetect</a> - Allow to detect if the user is using Dark Mode
-
 ## Acknowledgments
 
 * Special thanks to all open source projects that made this tool possible!
@@ -155,35 +115,35 @@ Copyright © 2025 Your Name.
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=yourusername/ClassIn-Video-Downloader&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=Zmh20121211/ClassIn-DL&type=Date&theme=dark
     "
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="
-      https://api.star-history.com/svg?repos=yourusername/ClassIn-Video-Downloader&type=Date&theme=light
+      https://api.star-history.com/svg?repos=Zmh20121211/ClassIn-DL&type=Date&theme=light
     "
   />
   <img
     alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=yourusername/ClassIn-Video-Downloader&type=Date&theme=light"
+    src="https://api.star-history.com/svg?repos=Zmh20121211/ClassIn-DL&type=Date&theme=light"
   />
 </picture>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/yourusername/ClassIn-Video-Downloader.svg?style=for-the-badge
-[forks-url]: https://github.com/yourusername/ClassIn-Video-Downloader/network/members
-[stars-shield]: https://img.shields.io/github/stars/yourusername/ClassIn-Video-Downloader.svg?style=for-the-badge
-[stars-url]: https://github.com/yourusername/ClassIn-Video-Downloader/stargazers
-[issues-shield]: https://img.shields.io/github/issues/yourusername/ClassIn-Video-Downloader.svg?style=for-the-badge
-[issues-url]: https://github.com/yourusername/ClassIn-Video-Downloader/issues
-[release-shield]: https://img.shields.io/github/v/release/yourusername/ClassIn-Video-Downloader?style=for-the-badge
-[release-url]: https://github.com/yourusername/ClassIn-Video-Downloader/releases/latest
-[downloads-shield]: https://img.shields.io/github/downloads/yourusername/ClassIn-Video-Downloader/total?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Zmh20121211/ClassIn-DL.svg?style=for-the-badge
+[forks-url]: https://github.com/Zmh20121211/ClassIn-DL/network/members
+[stars-shield]: https://img.shields.io/github/stars/Zmh20121211/ClassIn-DL.svg?style=for-the-badge
+[stars-url]: https://github.com/Zmh20121211/ClassIn-DL/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Zmh20121211/ClassIn-DL.svg?style=for-the-badge
+[issues-url]: https://github.com/Zmh20121211/ClassIn-DL/issues
+[release-shield]: https://img.shields.io/github/v/release/Zmh20121211/ClassIn-DL?style=for-the-badge
+[release-url]: https://github.com/Zmh20121211/ClassIn-DL//releases/latest
+[downloads-shield]: https://img.shields.io/github/downloads/Zmh20121211/ClassIn-DL/total?style=for-the-badge
 [qqgroup-shield]: https://img.shields.io/badge/QQ_Group-123456789-blue.svg?color=blue&style=for-the-badge
 [qqgroup-url]: https://qm.qq.com/q/PlUBdzqZCm
 [product-screenshot]: resources/screenshot.png
-[windows-x64-url]: https://github.com/yourusername/ClassIn-Video-Downloader/releases/latest/download/Classin视频解析下载工具-windows-x64.exe
-[windows-x86-url]: https://github.com/yourusername/ClassIn-Video-Downloader/releases/latest/download/Classin视频解析下载工具-windows-x86.exe
-[windows-arm64-url]: https://github.com/yourusername/ClassIn-Video-Downloader/releases/latest/download/Classin视频解析下载工具-windows-arm64.exe
+[windows-x64-url]: https://github.com/Zmh20121211/ClassIn-DL/releases/latest/download/Classin视频解析下载工具-windows-x64.exe
+[windows-x86-url]: https://github.com/Zmh20121211/ClassIn-DL/releases/latest/download/Classin视频解析下载工具-windows-x86.exe
+[windows-arm64-url]: https://github.comZmh20121211/ClassIn-DL/releases/latest/download/Classin视频解析下载工具-windows-arm64.exe
