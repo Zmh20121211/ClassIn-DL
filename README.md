@@ -2,15 +2,18 @@
   <a href="README_zh.md">简体中文</a> | English
 </h4>
 
-> [!TIP]
-> For the best compatibility, please use the latest version of the tool.
-
 <!-- PROJECT LOGO -->
 <div align="center">
 
 <h3>
     A powerful cross-platform ClassIn video downloader
 </h3>
+
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Release][release-shield]][release-url]
+[![Downloads][downloads-shield]][release-url]
 
 <h4>
   <a href="https://github.com/Zmh20121211/ClassIn-DL/issues/new?template=bug_report.yml">Report Bug</a>
@@ -63,6 +66,9 @@ Visit [GitHub Issues](https://github.com/Zmh20121211/ClassIn-DL/issues) to see a
 <!-- DOWNLOAD LINKS -->
 ## Download
 
+> [!TIP]
+> For the best compatibility, please use the latest version of the tool.
+> 
 Get the latest version of ClassIn Video Downloader for Windows:
 
 | Platform | Architecture | Download Link |
