@@ -84,9 +84,9 @@ Get the latest version of ClassIn Video Downloader for Windows:
 
 | Platform | Architecture | Download Link |
 |:--------:|:------------:|:-------------:|
-| Windows  | x86_64       | [Download][windows-x64-url] |
-| Windows  | x86          | [Download][windows-x86-url] |
-| Windows  | arm64        | [Download][windows-arm64-url] |
+| Windows  | x86_64       | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x64.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x64.exe) |
+| Windows  | x86          | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x86.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x86.exe) |
+| Windows  | arm64        | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-arm64.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-arm64.exe) |
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -139,6 +139,3 @@ Copyright © 2025 ZMH.
 [downloads-shield]: https://img.shields.io/github/downloads/ZMH21306/ClassIn-DL/total?style=for-the-badge
 [qqgroup-shield]: https://img.shields.io/badge/QQ_Group-2130606191-blue.svg?color=blue&style=for-the-badge
 [qqgroup-url]: https://qm.qq.com/q/PlUBdzqZCm
-[windows-x64-url]: https://github.com/ZMH21306/ClassIn-DL/releases/latest/download/Classin视频解析下载工具-windows-x64.exe
-[windows-x86-url]: https://github.com/ZMH21306/ClassIn-DL/releases/latest/download/Classin视频解析下载工具-windows-x86.exe
-[windows-arm64-url]: https://github.com/ZMH21306/ClassIn-DL/releases/latest/download/Classin视频解析下载工具-windows-arm64.exe
