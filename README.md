@@ -138,4 +138,4 @@ Copyright © 2025 ZMH.
 [release-url]: https://github.com/ZMH21306/ClassIn-DL/releases/latest
 [downloads-shield]: https://img.shields.io/github/downloads/ZMH21306/ClassIn-DL/total?style=for-the-badge
 [qqgroup-shield]: https://img.shields.io/badge/QQ_Group-2130606191-blue.svg?color=blue&style=for-the-badge
-[qqgroup-url]: https://qm.qq.com/q/PlUBdzqZCm
+[qqgroup-url]: https://qm.qq.com/q/4w0AZhrAcU
