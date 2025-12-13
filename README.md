@@ -84,9 +84,9 @@ Get the latest version of ClassIn Video Downloader for Windows:
 
 | Platform | Architecture | Download Link |
 |:--------:|:------------:|:-------------:|
-| Windows  | x86_64       | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x64.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x64.exe) |
-| Windows  | x86          | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x86.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-x86.exe) |
-| Windows  | arm64        | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-arm64.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin.-v0.8.0-Windows-arm64.exe) |
+| Windows  | x86_64       | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin-DL-v0.8.0-Windows-x64.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin-DL-v0.8.0-Windows-x64.exe) |
+| Windows  | x86          | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin-DL-v0.8.0-Windows-x86.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin-DL-v0.8.0-Windows-x86.exe) |
+| Windows  | arm64        | [GitHub Direct](https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin-DL-v0.8.0-Windows-arm64.exe) <br> [CDN Mirror](https://gh-proxy.org/https://github.com/ZMH21306/ClassIn-DL/releases/download/v0.8.0/Classin-DL-v0.8.0-Windows-arm64.exe) |
 
 <!-- CONTRIBUTING -->
 ## Contributing
